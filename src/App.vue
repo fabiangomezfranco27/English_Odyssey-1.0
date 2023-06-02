@@ -11,24 +11,29 @@
   <router-view></router-view>
   </div>
  </template>
+
  <script>
  export default {
   name: 'App',
  };
  </script>
+
  <style>
  #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   margin-top: 60px;
  }
+
  ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
+
 li {
  margin-bottom: 10px;
 }
+
 a {
  text-decoration: none;
 }
