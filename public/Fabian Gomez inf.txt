@@ -1,19 +1,19 @@
-ï»¿Proyecto: English Odyssey
+Proyecto: English Odyssey
 
 
-Nombre: Fabian Andrse Gomez Franco
+Nombre: Fabian Andres Gomez Franco
 
 
 Roll: Equipo de desarrollo
 
 
-Correo ElectrÃ³nico: fgomezfranco45@correo.unicordoba.edu.co 
+Correo Electrónico: fgomezfranco45@correo.unicordoba.edu.co 
 
 
 GitHub User: https://github.com/fabiangomezfranco27 
 
 
-Licenciatura en InformÃ¡tica
+Licenciatura en Informática
 
 
-Universidad de CÃ³rdoba
+Universidad de Córdoba
