@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-  <nav>
+  <header>
+    <nav>
   <ul class="icon">
   <li class="icon-li">
     <img class="icon2" src="./assets/screen6.png"> 
@@ -13,6 +14,7 @@
 </li>
   </ul>
   </nav>
+  </header>
   <router-view/>
   </div>
  </template>

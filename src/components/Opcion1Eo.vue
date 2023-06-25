@@ -5,17 +5,17 @@
           English Odyssey
         </b>
       </div>
-    <img class="icon5" src="../assets/screen3.png">
+    <img class="icon5" src="../assets/screen5.png">
     <br><br>
     <div class="t2">
       Aquí inicia tu aventura en el ajetreado camino hacia el dominio de la pronunciación de las letras en inglés.
     </div>
     <img class="icon6" src="../assets/screen11.png">
-    <br><br>
+    <br><br><br><br>
     <div class="t2">
       Aquí inicia tu aventura en el ajetreado camino hacia el dominio de la pronunciación de los números en inglés.
     </div>
-    <img class="icon6" src="../assets/screen10.png">
+    <img class="icon7" src="../assets/screen10.png">
     </div>
    </template>
    
@@ -23,10 +23,10 @@
    
    <style>
      .icon5{
-  height: 150px;
+  height: 220px;
   width: 250px;
   position: absolute;
-  top: 100px; right: 10px;
+  top: 85px; right: 10px;
   border: 1px;
   }
 
@@ -41,6 +41,7 @@
   padding: 14px;
   background-color: white;
   border-radius: 30px;
+  box-shadow: 7px 7px 15px #3ca4bb ;
   }
 
   .t2{
@@ -55,9 +56,24 @@
   border-radius: 30px;
   position: relative;
   left: 100px;
+  box-shadow: 7px 7px 15px #3ca4bb ;
   }
 
   .icon6{
     background-color: white;
+    position: absolute;
+    left: 65%; top: 40%;
+    height: 150px; width: 200px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 15px #3ca4bb ;
+  }
+
+  .icon7{
+    background-color: white;
+    position: absolute;
+    left: 65%; top: 73%;
+    height: 150px; width: 200px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 15px #3ca4bb ;
   }
   </style>
