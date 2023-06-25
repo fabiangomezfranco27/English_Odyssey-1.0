@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import Inicio from './components/Inicio.vue';
-import Opcion1 from './components/Opcion1.vue';
-import Opcion2 from './components/Opcion2.vue';
-import Opcion3 from './components/Opcion3.vue';
+import Inicio from './components/InicioEo.vue';
+import Opcion1 from './components/Opcion1Eo.vue';
+import Opcion2 from './components/Opcion2Eo.vue';
+import Opcion3 from './components/Opcion3Eo.vue';
 
 const routes = [
  {
@@ -24,7 +24,7 @@ const routes = [
  path: '/opcion3',
  name: 'opcion3',
  component: Opcion3
- }
+ },
 ];
 
 const router = createRouter({
