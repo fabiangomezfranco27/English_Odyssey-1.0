@@ -1,6 +1,5 @@
 <template>
     <div>
-    <h1></h1>
     <img class="icon1" src="../assets/screen4.png"> 
     <img class="icon3" src="../assets/screen7.png">
     <aside>
@@ -74,7 +73,7 @@
     height: 30px;
     width: 260px;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 16px;
   }
 
   .icon4{
